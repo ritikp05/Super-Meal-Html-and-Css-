@@ -1,0 +1,20 @@
+footer ul{background-color: black;
+    
+    display: flex;
+flex-wrap: wrap;
+    justify-content:space-evenly;
+    align-items: center;
+width: 100vw;
+height:20vh;
+
+}
+footer ul a{text-decoration: none;
+
+}
+footer ul li{ list-style-type: none;
+    font-size:x-large;
+    color: azure;
+}
+footer ul li:hover{color: yellow;
+
+}

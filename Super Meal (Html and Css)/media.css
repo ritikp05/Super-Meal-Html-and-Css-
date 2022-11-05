@@ -1,0 +1,20 @@
+@media only screen and (max-width:359px) {
+#main h1{ font-size: 0.7cm;
+    text-align:center;
+    padding-bottom: 6rem;
+    color:rgb(42, 10, 7);
+
+}
+
+#main{background-size: cover;
+
+}
+    #main #btn{
+    /* display: flex; */
+position: absolute;
+    top: 60%;
+    /* justify-content: end; */
+    /* align-content: flex-end; */
+    
+}
+}
